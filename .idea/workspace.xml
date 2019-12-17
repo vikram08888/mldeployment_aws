@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f54027c1-3d73-4258-85e6-81d5663bdc35" name="Default Changelist" comment="" />
+    <list default="true" id="f54027c1-3d73-4258-85e6-81d5663bdc35" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLForCloudDeployment.docx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UtD1r1kvYmJA7CXUvkQ80F7YM1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -125,7 +132,7 @@
       <workItem from="1576166786393" duration="1291000" />
       <workItem from="1576505445586" duration="8000" />
       <workItem from="1576515380293" duration="1107000" />
-      <workItem from="1576568716392" duration="62000" />
+      <workItem from="1576568716392" duration="699000" />
     </task>
     <servers />
   </component>
