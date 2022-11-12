@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f54027c1-3d73-4258-85e6-81d5663bdc35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.ebextensions/python.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MLForCloudDeployment.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/application.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="SCRIPT_NAME" value="D:\datascience\iNeuron\docs\MLForCloudDeployment_AWS\application.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,6 +134,7 @@
       <workItem from="1576505445586" duration="8000" />
       <workItem from="1576515380293" duration="1107000" />
       <workItem from="1576568716392" duration="699000" />
+      <workItem from="1576590524154" duration="1410000" />
     </task>
     <servers />
   </component>
@@ -140,6 +142,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="302" y="193" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576590577156">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="302" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1576590577156" />
     <state width="1485" height="199" key="GridCell.Tab.0.bottom" timestamp="1576545984164">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -165,5 +171,6 @@
     <SUITE FILE_PATH="coverage/MLForCloudDeployment$main.coverage" NAME="main Coverage Results" MODIFIED="1576515422944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MLForCloudDeployment$train.coverage" NAME="train Coverage Results" MODIFIED="1576167408336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MLForCloudDeployment$app.coverage" NAME="app Coverage Results" MODIFIED="1576568802482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MLForCloudDeployment_AWS$app.coverage" NAME="app Coverage Results" MODIFIED="1576590608752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
